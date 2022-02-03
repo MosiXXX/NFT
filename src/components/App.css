@@ -1,1 +1,20 @@
 /* Styles go here */
+.token{
+    height: 150px;
+    width:150px;
+    border-radius: 50%;
+    display:inline-block;
+}
+.imageToken{
+    padding:30px;
+}
+.mintedImg{
+    width:220px;
+    height:180px;
+    margin: 20px;
+    border-radius: 10%;
+    display:inline-block;
+}
+.seprator{
+    margin-top: 0px;
+}
